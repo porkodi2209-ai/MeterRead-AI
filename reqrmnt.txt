@@ -1,0 +1,6 @@
+
+- Python
+- Streamlit
+- Pytesseract
+- Tesseract OCR
+- Pillow
