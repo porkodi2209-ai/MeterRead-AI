@@ -1,7 +1,7 @@
 # MeterRead AI
 
 ## Overview
-
+ 
 MeterRead AI is an OCR-based utility meter reading application that extracts meter readings from uploaded meter images.
 
 The application uses Optical Character Recognition (OCR) to identify numerical readings from the image and presents the detected value in a simple and user-friendly interface.
