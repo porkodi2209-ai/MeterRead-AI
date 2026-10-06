@@ -18,11 +18,12 @@ The application uses Optical Character Recognition (OCR) to identify numerical r
 ## DEMO
 ## Screenshot
 
-<img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/cc861fc3-3558-4406-ab7a-09b1d1effa71" />
+<img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/e64dbc23-d237-40b0-b6da-7ea047f49227" />
 
-<img width="1920" height="1080" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/2cfa72ef-42e2-48bc-a9ef-3d9d6e03208e" />
+<img width="1920" height="1080" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/24180745-1b59-4f81-a0af-ecba27d9c5d7" />
 
-<img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/ab38d619-4847-4052-9de2-f95ef87ea787" />
+<img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/93585833-11d5-403c-a6fc-57eda1d382aa" />
+
 
 
 ## Technologies Used
